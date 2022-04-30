@@ -13,7 +13,7 @@ public class InputWordle {
     public String tvColor5;
 
 
-    public InputWordle (String alphabet1,String alphabet2,String alphabet3,
+    public InputWordle (String alphabet1,String alphabet2,String alphabet3, //dd
                         String alphabet4,String alphabet5,String tvColor1,
                         String tvColor2,String tvColor3,String tvColor4,String tvColor5){
 
